@@ -15,7 +15,7 @@
 <h2>
 <div class="hex"></div><span>Skills</span></h2>
 <div class="subtext coll">
-A good grasp of object-oriented programming and computing-related math as a whole. Have worked with HTML5, CSS3, JavaScript, JQuery and PHP in the web developmet area, as well as on Java, Ada, Python, C++, C# or Basic.NET when it comes to object-oriented programming languages. I have also worked widely on R, Matlab and C when working on computational sciences. Proficient in CSS3 and HTML5; making significant inroads into JavaScript and JQuery. In addition to my knowledge of coding, I also speak three languages very fluently, Spanish, English and Basque, and am in the process of learning a few more.
+A good grasp of object-oriented programming and computing-related math as a whole. Have worked with HTML5, CSS3, JavaScript, JQuery and PHP in the web developmet area, as well as on Java, Ada, Python, C++, C# or Basic.NET when it comes to object-oriented programming languages. I have also worked widely on R, Matlab and C when working on computational sciences. In addition to my knowledge of coding, I also speak three languages very fluently, Spanish, English and Basque, and am in the process of learning a few more.
 </div>
 <h2>
 <div class="hex"></div><span>Hobbies &amp; Interests</span></h2>
