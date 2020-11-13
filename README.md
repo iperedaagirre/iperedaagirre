@@ -1,5 +1,5 @@
 <img src = "https://pbs.twimg.com/profile_images/1272806273625608192/LiULLhf0_400x400.jpg"/>
-<div class="hex moved"></div><span>About the Dev</span></h1>
+<h1><span>About the Dev</span></h1>
 <div class="subtext" id="main">
 <p>My name's Iker. I'm a 26-year-old computer scientist with a software engineering minor and a master's degree on computational science and intelligent systems.</p>
 
