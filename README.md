@@ -30,15 +30,14 @@ My PhD on a mathematical model for abundance estimation in fish populations, whi
 <h2>
 <div class="hex"></div><span>Find Me</span></h2>
 <div class="subtext coll">
-<a>Twitter</a> | <a>Tumblr</a> | <a>Codepen</a> | <a>Behance</a>
+    <a href = "https://twitter.com/pereda_iker?s=20">Twitter</a> | <a href = "https://www.linkedin.com/in/iker-pereda-agirre-65739911a">LinkedIn</a>
 </div>
 <h2>
 <div class="hex"></div><span>Contact Me</span></h2>
 <div class="subtext coll">
 <ul>
-<li>Phone: +12 345 678 90</li>
-<li>E-mail: <a>lindeun@yahoo.com</a></li>
-<li>Discord: <a>Laighlin#0371</a></li>
+<li>Phone: +34 667 10 00 87</li>
+<li>E-mail: <a>ipereda@azti.es</a></li>
 </ul>
 </div>
 </main>
